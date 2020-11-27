@@ -132,7 +132,6 @@ vue项目表单自动保存（定时缓存）
 import {isvalidPhone, isvalidId, links, integerNumber, moneyType, isvalidFixedPhone, licenseNumber, chineseType} from '@/assets/js/validate'
 import * as cityData from '@/assets/js/region'
 import * as induData from '@/assets/js/industry'
-import uploadFile from '@/components/upload/publicFileUpload'
 export default {
   name: '',
   components: {
